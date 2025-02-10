@@ -1,6 +1,7 @@
 # Pumodi's Audio Presets
 A repo for various synth and effect presets I've made.
 Free for use under the MIT License.
+If you find these useful, please consider donating to my ko-fi.
 
 ## List of presets
 
