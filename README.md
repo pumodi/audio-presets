@@ -13,4 +13,4 @@ Free for use under the MIT License.
 
 ### Snap Heap
 
-* Quad Comb Filter: 4 node comb filters with randomization made using three techniques (Flanger + Phase Mod, All Pass Filters, and Disperser)
+* [Quad Comb Filter](https://youtu.be/76e8mDAMsW0?si=hvWVHE-bfUjOqDBd): 4 node comb filters with randomization made using three techniques (Flanger + Phase Mod, All Pass Filters, and Disperser)
